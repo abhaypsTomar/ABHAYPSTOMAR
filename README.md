@@ -1,4 +1,4 @@
-## I'M Currently working on JAVA
+## I'm currently working on JAVA
 
 <!--
 **abhaypsTomar/ABHAYPSTOMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
