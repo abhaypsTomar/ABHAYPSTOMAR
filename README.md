@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Pratap Singh Tomar</h1>
 <h3 align="center">Passionate C++ Developer and MERN Stack Enthusiast</h3>
-
+<img src="https://github.com/abhaypsTomar/ABHAYPSTOMAR/blob/main/download.png" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypstomar&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypstomar" /> </p>
 
 - 🌱 I’m currently learning **C++,React**
