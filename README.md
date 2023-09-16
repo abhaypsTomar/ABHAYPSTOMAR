@@ -17,7 +17,4 @@
 
  <p align="center">Let's build amazing things together! 🚀</p>
 
-    <!-- Add any other sections or content as needed -->
-
-    <hr>
-    <p align="center">© 2023 [Your Name]</p>
+    
