@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub README</title>
-    <!-- Add any additional meta tags or stylesheets here -->
-</head>
-<body>
     <h1 align="center">👋 Hi, I'm Abhay PrataP Singh Tomar</h1>
     <p align="center">Passionate C++ Developer and MERN Stack Enthusiast</p>
 
-    <!-- Add content, sections, and links as needed -->
+    
     
     <h2>About Me</h2>
     <p>I'm a dedicated software developer with a love for both the intricacies of C++ and the dynamic world of web development using the MERN stack. My journey in programming has been marked by a commitment to solving complex problems and crafting elegant solutions.</p>
@@ -34,5 +25,3 @@
 
     <hr>
     <p align="center">© 2023 [Your Name]</p>
-</body>
-</html>
